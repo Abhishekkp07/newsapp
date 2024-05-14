@@ -4,6 +4,7 @@ import 'package:newsapp/view/category.dart';
 import 'package:newsapp/view/home_screen.dart';
 import 'package:newsapp/view/search_screen.dart';
 
+
 class BottomNavController extends ChangeNotifier{
 
   int selectindex=0;
